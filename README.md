@@ -1,4 +1,4 @@
-# Vprofile
+# # Vprofile
 
 A Java Spring MVC web application (WAR packaging) demonstrating a multi-tier architecture, built with Maven and deployed via a CI/CD pipeline to AWS with GitOps-based delivery through Helm.
 
